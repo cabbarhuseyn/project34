@@ -3,7 +3,7 @@
     margin: 0 auto;
     font-family: 'Roboto', sans-serif;
 }
-
+li{list-style-type: none;}
 .oktdiv {
     display: flex;
 }
@@ -56,13 +56,21 @@
     flex-direction: row;
 font-size: 25px;
 }
+.h22{padding-top: 178px;}
+.h23{ padding-top: 249px}
 h2{font-size: 55px;}
 .lot{
     font-size: 25px;
+    list-style-type: square;
 }
 .p7{font-size: 30px;
 }
-.ctg1{display: block;
+.allctg{ display: block ;
     border: solid black 1px;
 width: 399px; height: 328px;
 border-radius: 30px;}
+
+.section3{
+    display: flex ;
+    flex-direction: row;
+}
