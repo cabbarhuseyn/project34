@@ -79,3 +79,17 @@ border-radius: 30px;}
 background-color: #EFEFEF;
 
 }
+.blt{ display: block;
+    width: 791px; height: 451px;
+    margin: 218px 537px 111px 112px ;
+    border: solid black 0.5px ;
+}
+
+.section5{
+    width: 1440px; height: 780px; 
+    background-color:  #9DC9C8;
+}
+.socialmedia{
+    display: flex;
+    flex-direction: row;
+}
